@@ -1,6 +1,6 @@
 {
   "name": "check-running",
-  "version": "1.0.2",
+  "version": "0.0.4",
   "description": "Check if a process is running",
   "main": "index.js",
   "scripts": {
