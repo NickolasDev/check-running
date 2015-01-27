@@ -1,5 +1,8 @@
-[![NPM version](https://badge.fury.io/js/mongoose-simple-paging.svg)](http://badge.fury.io/js/check-running)
-[![Dependency Status](https://david-dm.org/nickolasdev/mongoose-simple-paging.svg)](https://david-dm.org/nickolasdev/check-running)
+# Check Running
+
+
+[![NPM version](https://badge.fury.io/js/check-running.svg)](http://badge.fury.io/js/check-running)
+[![Dependency Status](https://david-dm.org/nickolasdev/check-running.svg)](https://david-dm.org/nickolasdev/check-running)
 
 ## Install
 
