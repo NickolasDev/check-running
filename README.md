@@ -1,7 +1,7 @@
 ## Install
 
 ```sh
-$ npm install check-running
+$ npm install check-running -g
 ```
 
 
