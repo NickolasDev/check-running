@@ -1,6 +1,6 @@
 {
   "name": "check-running",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a process is running",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,20 @@
     "spawn"
   ],
   "author": "Nickolas",
-  "bin": {
-    "check-running": "./bin/check-running"
-  },
-  "license": "MIT",
   "dependencies": {
     "colors": "^1.0.3",
     "minimist": "^1.1.0"
-  }
+  },
+  "bin": {
+    "check-running": "./bin/check-running"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickolasDev/check-running.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickolasDev/check-running/issues"
+  },
+  "homepage": "https://github.com/NickolasDev/check-running",
+  "license": "MIT"
 }
