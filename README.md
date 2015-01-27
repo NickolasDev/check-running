@@ -7,7 +7,7 @@ $ npm install check-running -g
 
 ## Usage
 
-```sh
+```
 Usage: check-running <options>
          -p process name. Exemple: -p mongod
          -i interval. Exemple: -i 10000
