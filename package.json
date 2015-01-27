@@ -1,0 +1,25 @@
+{
+  "name": "check-running",
+  "version": "1.0.0",
+  "description": "Check if a process is running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pid",
+    "running",
+    "child",
+    "exec",
+    "spawn"
+  ],
+  "author": "Nickolas",
+  "bin": {
+    "check-running": "./bin/check-running"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "minimist": "^1.1.0"
+  }
+}
